@@ -1,0 +1,29 @@
+body{
+	background : gray;
+}
+
+.header-class{
+	display: block;
+	background: lightgrey;
+	color: black;
+	height: 30px;
+	width: 100%;
+	margin-bottom:9px;
+}
+
+.number-input{
+	display: block;
+	color: black;
+	width: 50%;
+	heigt: 250px;
+	background-color: lightblue;
+	padding: 5px;
+}
+
+.input-buttons{
+	border-width: none;
+	border-color: none;
+	padding: 1px;
+	border-radius: 30px;
+	text-align:center ;
+}
